@@ -1,6 +1,6 @@
 {
   "name": "wincrash.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Crashes windows 10 versions 1709 through 2004.\nFor when process.exit(1) just isn't enough.\n\nZero dependencies.",
   "main": "index.js",
   "scripts": {
