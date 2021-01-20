@@ -10,4 +10,6 @@ if (user.hasWorkingWindowsComputer) {
 }
 ```
 
+Comes with tool binary!
+
 if you have a problem, email iwontlookatthis@hecancanyou.xyz
