@@ -6,7 +6,7 @@ example use:
 ```javascript
 const crash = require('crash');
 if (user.hasWorkingWindowsComputer) {
-    crash();
+    crash.crash();
 }
 ```
 
