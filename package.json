@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Crinfarr/crash.js.git"
+    "url": "git+https://github.com/Crinfarr/wincrash.js.git"
   },
   "keywords": [
     "crash",
@@ -19,8 +19,8 @@
   "author": "Crinfarr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Crinfarr/crash.js/issues"
+    "url": "https://github.com/Crinfarr/wincrash.js/issues"
   },
-  "homepage": "https://github.com/Crinfarr/crash.js#readme",
+  "homepage": "https://github.com/Crinfarr/wincrash.js#readme",
   "dependencies": {}
 }
