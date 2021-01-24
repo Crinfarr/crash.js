@@ -1,7 +1,7 @@
 {
   "name": "wincrash.js",
   "version": "1.1.0",
-  "description": "Crashes windows 10 versions 1709 through 2004.\nFor when process.exit(1) just isn't enough.\n\nZero dependencies.",
+  "description": "Crashes windows 10 versions 1709 through 2004.\nFor when process.exit(1) just isn't enough.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

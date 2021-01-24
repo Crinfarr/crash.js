@@ -1,6 +1,6 @@
 WinCrash.js
 ---
-for when `process.exit()` just isn't enough.
+for when `process.exit(1)` just isn't enough.
 
 Crashes windows v. 1709 through 2004.  is this wrong?  Open an issue on github.
 
@@ -12,9 +12,9 @@ if (user.hasWorkingWindowsComputer) {
 }
 ```
 
-Comes with tool binary!
+Comes with tool binary, if you genuinely want that for some reason!
 
-if you have a problem, email wincrash@hecancanyou.xyz
+For business or to send me memes, email wincrash@hecancanyou.xyz
 
 updates
 ---
