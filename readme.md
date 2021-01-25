@@ -20,3 +20,4 @@ Updates
 ---
 * 1.1.0: Migrated from `child-process` to `open`
 * 1.1.0: Automatically opens in ms edge for consistency
+* 1.1.2: bug fixes
